@@ -1,4 +1,4 @@
-# AI Chatbot Lesson Series
+# AI Chatbot Lesson Series (Scrapped)
 
 Welcome to the AI Chatbot Lesson Series! This series will guide you through the process of creating an AI chatbot, optimizing it for better performance, and understanding different learning settings. By the end of this series, you'll have a solid understanding of how to build and enhance chatbots using modern AI techniques.
 
